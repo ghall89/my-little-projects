@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+body {
+	background-color: #e0e3e3;
+	color: #464445;
+	font-family: 'Patua One', serif;
+	padding: 5% 10%;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h3 {
+	font-size: 2.4rem;
+}
+
+h1,
+h3 {
+	text-align: center;
+}
+
+p,
+li {
+	font-size: 1.3rem;
+}
+
+li {
+	margin: 1rem 0;
+	list-style: none;
+}
+
+a {
+	color: #5a85ca;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
