@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
 
 body {
-	background-color: #e0e3e3;
+	background-color: #e3e0da;
 	color: #464445;
 	font-family: 'Patua One', serif;
 	padding: 5% 10%;
+}
+
+div {
+	padding-top: 1rem;
 }
 
 h1 {
@@ -37,4 +41,10 @@ a {
 
 a:hover {
 	text-decoration: underline;
+}
+
+footer {
+	text-align: center;
+	padding-top: 4rem;
+	font-size: 1.1rem;
 }
